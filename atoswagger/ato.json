@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/ir3shio/swagxs/refs/heads/main/atoswagger/ato.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/ir3shio/swagxs/refs/heads/main/atoswagger/ato.yaml",
+            "name": "Foo"
+        }
+    ]
+}
